@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Research"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Teachings"
-  - url: /teachings/
-  # - title: "Sample Posts"
+    url: /teachings/
+ - title: "CV"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
