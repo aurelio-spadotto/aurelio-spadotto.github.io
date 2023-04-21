@@ -2,8 +2,8 @@
 main:
   - title: "Teachings"
     url: /teachings/
- # - title: "CV"
-  #   url: /year-archive/
+  - title: "CV"
+    url: /pages/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
