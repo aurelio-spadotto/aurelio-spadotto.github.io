@@ -150,12 +150,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-      include: ["_pages","_teachings"]
+    
+include: ["_pages","_teachings"]
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
+#include:
+#  - .htaccess
+#  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
