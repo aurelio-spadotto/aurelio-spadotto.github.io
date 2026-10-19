@@ -50,6 +50,26 @@ p {
   border-bottom: 1px solid #ddd;
 }
 
+.conference-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.presentation-entry {
+  font-style: italic;
+}
+
+.conference-date {
+  color: #777;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  margin-left: auto;
+}
+
 .section h2 {
   font-size: 1.8rem;
   color: #444;
